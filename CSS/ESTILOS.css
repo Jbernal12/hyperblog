@@ -49,3 +49,12 @@ body
     background: white;
     padding: 1em;
 }
+
+#footer
+{
+    background: bisque;
+    vertical-align: middle;
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+}
